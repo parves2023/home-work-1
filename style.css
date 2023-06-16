@@ -936,7 +936,7 @@ footer .boxdiv .lidiv li{
 
 
  /* Media Query for low resolution  Tablets, Ipads */
- @media (min-width: 481px) and (max-width: 767px){
+ @media (min-width: 0px) and (max-width: 767px){
     .left {
         margin-left: -56px;
         cursor: pointer;
